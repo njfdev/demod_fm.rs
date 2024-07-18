@@ -9,4 +9,4 @@ repository = "https://github.com/kchmck/demod_fm.rs"
 keywords = ["dsp", "fm", "demodulate", "signal"]
 
 [dependencies]
-num = "0.1.0"
+num = "0.4.3"
